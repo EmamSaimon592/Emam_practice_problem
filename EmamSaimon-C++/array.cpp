@@ -44,3 +44,4 @@ int main() {
 
     return 0;
 }
+// run this code , then you will be get output
